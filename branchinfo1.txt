@@ -3,4 +3,4 @@ For instance, imagine that you have the basic skeleton for a project. The projec
 This is where GitHub users step in. When you post your project on GitHub, the wider community of programmers and hobbyists can download and evaluate your work. They can alert you to possible issues, such as conflicts or unforeseen dependency issues. They may even propose solutions to those problems, saving you the work.
 Track Changes Across Versions
 GitHub tracks changes in a changelog, so you can know exactly what is changed each time. This feature is especially helpful for looking back in time and quickly identifying changes a collaborator made.
-actually copied from cognizance.
+actually copied from cognizance. changed
