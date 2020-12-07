@@ -73,7 +73,7 @@
 * Use the condition every time when the user enters a number.
 ## Check of COW-BULL-SHIT:-
 * Make an appropriate loop for checking the conditions of COW-BULL-SHIT.
-* I advice to use a If Statement in the loop.
+* I advice to use a *If Statement* in the loop.
 > This Ends the Game appropriately.
  
  
