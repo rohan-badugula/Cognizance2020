@@ -59,7 +59,21 @@
    |143|SHIT|
 
    ---
-   ![pic](C:\Users\Rohan\OneDrive\Pictures\Screenshots\2020-12-07 (6))
+  ---
 
-
-    
+# Making the game
+  ## Check of Computer's number:-
+  * Start the code by asking the computer to select a 3 digit number.
+  * Make some conditions to ensure that it is a 3 digit number with no digit repeated.
+  * Ask computer to choose another  number if the condition is not satiesfied.
+## Check of User's number:-
+* Ask User to enter a number which is 3 digit.
+* Make some conditions to ensure that it is a 3 digit number with no digit repeated.
+* Ask computer to choose another  number if the condition is not satiesfied.
+* Use the condition every time when the user enters a number.
+## Check of COW-BULL-SHIT:-
+* Make an appropriate loop for checking the conditions of COW-BULL-SHIT.
+* I advice to use a If Statement in the loop.
+> This Ends the Game appropriately.
+ 
+ 
