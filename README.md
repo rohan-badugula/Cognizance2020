@@ -13,6 +13,8 @@
 * You should follow the same instructions while guessing the number.
 * You will be given multiple chances while guessing the number.
 * Once you guess it right **YOU WIN**.
+
+![COW BULL SHIT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_78ZuJqD_a8AT8TaNHa2R-pOlB63FrQS6OOiawkWqq4wtlcgHlkP7hp8vROWch21hz3e6-ryp8doIWJCnmYZHNKyrbYJpmC_JQ&usqp=CAU&ec=45732300)
 ---
 ## Terms used in the game:-
   > COW:-
@@ -75,5 +77,6 @@
 * Make an appropriate loop for checking the conditions of COW-BULL-SHIT.
 * I advice to use a *If Statement* in the loop.
 > This Ends the Game appropriately.
- 
+ ### Link for making:-
+ [link for making](https://youtu.be/qFf7N4rTt24)
  
