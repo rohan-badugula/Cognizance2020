@@ -59,7 +59,7 @@
    |679|1 COW & 1 BULL|
    |769|2 BULLS|
    |143|SHIT|
-![here](https://miro.medium.com/max/2848/1*_nS8r1a51xOTKYM6kGPWmg.png)
+
 
    ---
   ---
