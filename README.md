@@ -19,6 +19,47 @@
    * When the digits of your number and the digits of the computer's number match but, are not in the appropriate place then you call it **COW**.
    * **Example**:-
        * If the computer number is **358** and your guesses be like,
-       |YourGuess|Hint|
+
+
+       |Your Guess|Hint|
        |---|---|
        |846|1 COW|
+       |645|1 COW|
+       |836|2 COW's|
+       |583|3 Cow's|
+  > BULL:-
+  * When the digits of your numer and the digits of the computer's number match in the appropriate postion then you call it **BULL**.
+  * **Example**:-
+     * If the computer numer is **489** and your guesses be like,
+
+      |Your Guess|Hint|
+      |---|---|
+      |456|1 BULL|
+      |689|2 BULL's|
+      |489|3 BULL's|
+
+  > SHIT:-
+  * When the digits of your number and the digits of the computer's number donot match at all then you call it **SHIT**.
+  * **Example**:-
+     * if the computer number is **890** and your guess  like,
+
+     |Your guess|Hint|
+     |---|---|
+     |765|SHIT|
+     |123|SHIT|
+     |543|SHIT|
+
+   > General :-
+   * If the computer number is **759** and your guess be like,
+
+   |Your guess|Hnt|
+   |---|---|
+   |679|1 COW & 1 BULL|
+   |769|2 BULLS|
+   |143|SHIT|
+
+   ---
+   ![pic](C:\Users\Rohan\OneDrive\Pictures\Screenshots\2020-12-07 (6))
+
+
+    
