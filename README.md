@@ -1,4 +1,4 @@
-# COW - BULL - SHIT
+# COW's & BULL's
 ---
 ## Preview:-
 * It's asicall a logic numerical game quite intresting one. That makes you think logically.
@@ -59,11 +59,13 @@
    |679|1 COW & 1 BULL|
    |769|2 BULLS|
    |143|SHIT|
+![here](https://miro.medium.com/max/2848/1*_nS8r1a51xOTKYM6kGPWmg.png)
 
    ---
   ---
 
 # Making the game
+![game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtkgYanZiRXFeqAw1fOZF8-Ji8r1K2KzLbQ&usqp=CAU)
   ## Check of Computer's number:-
   * Start the code by asking the computer to select a 3 digit number.
   * Make some conditions to ensure that it is a 3 digit number with no digit repeated.
