@@ -1,7 +1,7 @@
 
                                  Amstrong Number
                                   Pseudo code
-•	Start
+•	Start.
 •	Declare num, sum, i, count, a, c
 •	Read num 
 •	If num<0 
