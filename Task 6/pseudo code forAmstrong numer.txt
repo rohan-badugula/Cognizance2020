@@ -1,0 +1,23 @@
+
+                                 Amstrong Number
+                                  Pseudo code
+•	Start
+•	Declare num, sum, i, count, a, c
+•	Read num 
+•	If num<0 
+o	Print “Number should be positive”.
+    Else 
+	Int a=num, c=num, sum=0, i=0, count=0
+	Repeat until num<>0
+	Count=count+1
+	Num=num/10
+	Repeat until c<>0
+	i = c%10
+	sum = sum + I ^ count
+	c = c/10
+	If a = sum
+	Print “is an amstrong number”
+                                             Else 
+	Print “is not an amstrong number”
+•	Stop.
+      
